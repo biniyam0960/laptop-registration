@@ -157,7 +157,3 @@ Run npm start in the client directory to catch development errors.
 
 File Not Found: If the backend can't find client/build/index.html, run npm run build in the client directory.
 
-Contributing
-Feel free to fork this repository, create a feature branch, and submit a pull request with improvements or bug fixes.
-License
-This project is licensed under the MIT License.
